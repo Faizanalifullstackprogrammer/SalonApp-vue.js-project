@@ -1,0 +1,504 @@
+{
+  "catalog": {
+	"titlecat": "AA3_Test Hamburger V2 Cycle2",
+	"logogen": "logo-coiffeur.jpg",
+	"catsender": "signatureNoir.png",
+	"icon": "logo-coiffeur.jpg",
+	"logostarti_land": "",
+	"logostarti_port": "",
+	"bgcat": "background-min.jpg",
+	"bgheader": "Banner.jpg",
+	"bgheadermob": "",
+	"bgbanner": "Banner03.jpg",
+	"bgbannermob": "",
+	"textbanner": "",
+	"textheader": "",
+	"bgcard": "",
+	"logoQR": "logo-coiffeur.jpg",  
+    "company": {
+  		"name": "coiffeur",
+  		"datas": {
+  			"title": "Mobislide",
+  			"adress": "22 rue gauthey",
+  			"state": "",
+  			"zipcode": "75017",
+  			"city": "Paris",
+  			"country": "France",
+  			"telephone": "+33140250622",
+  			"email": "emetteur@gmail.com"
+  		},
+  		"btns": [
+  			{
+  				"type": "Email",
+  				"content": "levy@jld.fr"
+  			},
+  			{
+  				"type": "Phone",
+  				"content": "0140250622"
+  			},
+  			{
+  				"type": "Navigateur",
+  				"content": "http://www.profilhair.fr/index.php"
+  			},
+  			{
+  				"type": "Waze",
+  				"content": "22 RUE gauthey - 75017 PARIS"
+  			},
+  			{
+  				"type": "Gmap",
+  				"content": "22 RUE gauthey - 75017 PARIS"
+  			},
+  			{
+  				"type": "FaceBook",
+  				"content": "https://www.facebook.com/arnaudetlouis"
+  			}
+  		]
+    },		
+    "config":
+      {
+		"showmode":  "10",
+		"shorturl":  "",
+		"topbtns":  "",
+		"coltopbtns":  "false",
+		"colsenderinfo":  "#ddd",
+		"imgwait":  "",
+		"zoomslider":  "cycle2",
+		"iconstyle":  "images_black",
+		"oneslide":  "2",
+		"addorderform":  "0",
+		"slidetimer":  "N",
+		"catalogtimer":  "N",
+		"timerduration":  "120000",
+		"langmask":  ",1,2,3,4,7,8,9,10,d2",
+		"bgbody":  "#000000",
+		"btnmenu":  "4",
+		"allowmenu":  "11000",
+		"zoomQR":  "1",
+		"tickdefault":  "2232",
+		"tickfunctions":  "2",
+		"headerfooter":  "default#default",
+		"mobdefault":  "0#",
+		"headersize":  "3",
+		"colheader":  "#aaffff",
+		"logosize":  "5",
+		"logosender":  "v",
+		"logoQRcolor":  "#000",
+		"VCcolors":  "#eee;#eee;#eee;#eee;#eee",
+		"bgcardmode":  "h",
+		"bgsizemode":  "2111123",
+		"logoinsize":  "0",
+		"headersocsize":  "0",
+		"headercatsize":  "0",
+		"postextbanner":  "L",
+		"bannersize":  "400",
+		"pres":  "0",
+		"photosize":  "270x200",
+		"pframesize":  "4",
+		"bgsepar":  "#ffffff",
+		"slideline":  "4",
+		"slidetpos":  "2",
+		"slidetfirst":  "0",
+		"naviconsslides":  "0",
+		"fracolor":  "#808080",
+		"frabgcolor":  "#ffffff",
+		"frapad":  "10",
+		"frashadow":  "1",
+		"frathick":  "0",
+		"frameround":  "3",
+		"photoborderthick":  "6",
+		"photobordercol":  "#000000",
+		"photoround":  "3",
+		"photoshadow":  "0",
+		"photozoom":  "0",
+		"photosizebig":  "0",
+		"plegend":  "1",
+		"legendbgcolor":  "#ffffff",
+		"bgcolor":  "#808080",
+		"bgphoto":  "#999999",
+		"textstyle":  "default#default",
+		"fontfamily":  "bad-script-v14-latin",
+		"menustyle":  "default#default",
+		"identfields":  "defaut",
+		"headerhtml":  "",
+		"questmode":  "#undefined#",
+		"questyesno":  "#1#1",
+		"questlike":  "#0##0##0#",
+		"catalogbgcolor":  "#b99a41e6"
+		
+      },
+    "slides":
+    [
+      {
+        "id": "slide160719185430",
+        "params": {
+          "titleslide": "<span id='sceditor-start-marker' class='sceditor-selection sceditor-ignore' style='line-height: 0; display: none;'> </span><font size='5' color='#ff3333'>Le Salon</font><span id='sceditor-end-marker' class='sceditor-selection sceditor-ignore' style='line-height: 0; display: none;'> </span>",
+          "param:navicons": "4",
+          "param:autoplay": "0",
+          "param:random": "0",
+          "param:interval": "2000",
+          "param:transition": "1",
+          "param:direct": "0",
+          "param:stymenuvis": "1",
+          "param:zoomfirst": "1",
+		  "param:slidetype": ""
+        },
+        "photos": 
+        [
+          {
+            "name": "20200611_180037__2.jpg",
+            "ratio":"230x350",
+            "legends": [],
+            "detactive": "1",
+            "text": "",
+            "postext": "TL",
+            "rottext": "0",
+            "pref_yt": "I",
+            "btns" :
+             [
+               {
+                 "type": "QrCode",
+                 "url": "https://www.mobislide.fr/index.php"
+               },
+               {
+                 "type": "Navigateur_FR",
+                 "url": "https://www.mobislide.fr/index.php"
+               }
+             ],
+			"num": ""
+          },
+          {
+            "name": "Salon01.jpg",
+            "ratio":"1000x747",
+            "legends": 
+              [
+                {
+                  "legend": "<!-- PLAIN -->"
+                },
+                {
+                  "legend": ""
+                },
+                {
+                  "legend": ""
+                }
+              ],
+            "detactive": "1",
+            "text": "",
+            "postext": "TL",
+            "rottext": "0",
+            "pref_yt": "I",
+            "btns" :
+             [
+               {
+                 "type": "PDF_FR",
+                 "url": "www.mobislide.fr/data7/casper/documentation/Bordereau-2.pdf"
+               }
+             ],
+			"num": ""
+          },
+          {
+            "name": "Salon03.jpg",
+            "ratio":"1000x668",
+            "legends": 
+              [
+                {
+                  "legend": "<span style='font-family:comic sans ms,cursive'><span style='color:#FF0000'>Test police 1</span></span>"
+                },
+                {
+                  "legend": "<span style='font-size:20px'><span style='color:#FFA07A'><strong><span style='font-family:tahoma,geneva,sans-serif'>Test police 2</span></strong></span></span>"
+                },
+                {
+                  "legend": "<span style='font-size:22px'><span style='color:#DAA520'><strong><em><span style='font-family:comic sans ms,cursive'>Test police 3</span></em></strong></span></span>"
+                }
+              ],
+            "detactive": "1",
+            "text": "<p><span style='color:#FF0000'><span style='font-family:lucida sans unicode,lucida grande,sans-serif'>Test police 4</span></span></p>",
+            "postext": "CC",
+            "rottext": "0",
+            "pref_yt": "I",
+            "btns" :
+             [
+               {
+                 "type": "Youtube_TAB",
+                 "url": "www.youtube.com/watch?v=i-grdDE2btE"
+               }
+             ],
+			"num": ""
+          },
+          {
+            "name": "Salon04.jpg",
+            "ratio":"534x800",
+            "legends": 
+              [
+                {
+                  "legend": "L&eacute;gende 1"
+                },
+                {
+                  "legend": "L&eacute;gende 2"
+                },
+                {
+                  "legend": "L&eacute;gende 3"
+                }
+              ],
+            "detactive": "1",
+            "text": "<p>L&eacute;gende 5</p>",
+            "postext": "TL",
+            "rottext": "0",
+            "pref_yt": "I",
+            "btns" : [],
+			"num": ""
+			
+          }, 
+          {
+            "name": "Salon05.jpg",
+            "ratio":"1000x667",
+            "legends": 
+              [
+                {
+                  "legend": "photo 1"
+                },
+                {
+                  "legend": "photo 2"
+                },
+                {
+                  "legend": "photo 3"
+                }
+              ],
+            "detactive": "1",
+            "text": "<p><span style='font-size:22px'><span style='color:#EE82EE'>photo 5</span></span></p>",
+            "postext": "CC",
+            "rottext": "-45",
+            "pref_yt": "I",
+            "btns" : [],
+			"num": ""
+          },
+          {
+            "name": "Salon06.jpg",
+            "ratio":"1000x668",
+            "legends": [],
+            "detactive": "",
+            "text": "",
+            "postext": "",
+            "rottext": "",
+            "pref_yt": "",
+            "btns" : [],
+			"num": "53"
+          },
+		  {
+            "name": "Salon07.jpg",
+            "ratio":"1000x668",
+            "legends":[],
+            "detactive": "",
+            "text": "",
+            "postext": "",
+            "rottext": "",
+            "pref_yt": "",
+            "btns" : [],
+			"num": "54"
+          },
+		  {
+            "name": "Salon08.jpg",
+            "ratio":"1000x668",
+            "legends":[],
+            "detactive": "",
+            "text": "",
+            "postext": "",
+            "rottext": "",
+            "pref_yt": "",
+            "btns" : [],
+			"num": "55"
+          } 
+        ]
+      },
+      {
+        "id": "slide160719185553",
+        "params": {
+          "titleslide": "<font color='#ffcc33' size='5'>Les Soins</font>",
+          "param:navicons": "3",
+          "param:autoplay": "0",
+          "param:random": "0",
+          "param:interval": "2000",
+          "param:transition": "1",
+          "param:direct": "0",
+          "param:stymenuvis": "1",
+          "param:zoomfirst": "1",
+		  "param:buttons": "",
+		  "param:sbuttons": "",
+		  "param:slidetype": ""	  
+        },
+        "Photos": 
+        [
+          {
+            "name": "Soins02.jpg",
+            "ratio":"857x800",
+            "legends": 
+              [
+                {
+                  "legend": "<span style='font-family:trebuchet ms,helvetica,sans-serif'>Creme de beaute</span>"
+                },
+                {
+                  "legend": "Blonde ME"
+                },
+                {
+                  "legend": "9.50&euro;"
+                }
+              ],
+            "detactive": "1",
+            "text": "<p>TESTTTT</p>",
+            "postext": "TL",
+            "rottext": "0",
+            "pref_yt": "I",
+            "btns" :[],
+			"num": ""
+          },
+          {
+            "name": "Soins03.jpg",
+            "ratio":"857x800",
+            "legends": [],
+            "detactive": "1",
+            "text": "",
+            "postext": "TL",
+            "rottext": "0",
+            "pref_yt": "I",
+			"btns" :[],
+			"num": "68"
+          },
+          {
+            "name": "Soins04.jpg",
+            "ratio":"632x800",
+            "legends": 
+              [
+                {
+                  "legend": "Ambre solaire"
+                },
+                {
+                  "legend": "BC"
+                },
+                {
+                  "legend": "24.50&euro"
+                }
+              ],
+            "detactive": "1",
+            "text": "<p>Remise 50%</p>",
+            "postext": "CC",
+            "rottext": "-90",
+            "pref_yt": "I",
+            "btns" : [],
+			"num": ""
+          },
+          {
+            "name": "Soins05.jpg",
+            "ratio":"632x800",
+            "legends": [],
+            "detactive": "1",
+            "text": "",
+            "postext": "TL",
+            "rottext": "0",
+            "pref_yt": "I",
+            "btns" : [],
+			"num": "70"
+			
+          }, 
+          {
+            "name": "Soins06__8.jpg",
+            "ratio":"208x350",
+            "legends": [],
+            "detactive": "1",
+            "text": "",
+            "postext": "TL",
+            "rottext": "0",
+            "pref_yt": "I",
+            "btns" : [],
+			"num": "71"
+          }
+        ]
+      },
+      {
+        "id": "slide200324115454",
+        "params": {
+          "titleslide": "<font size='5' color='#ff6699'>Liste de Fichier</font>",
+          "param:navicons": "1",
+          "param:autoplay": "0",
+          "param:random": "0",
+          "param:interval": "2000",
+          "param:transition": "1",
+          "param:direct": "0",
+          "param:stymenuvis": "1",
+          "param:zoomfirst": "1",
+		  "param:buttons": "",
+		  "param:sbuttons": "s0",
+		  "param:slidetype": ""
+        },
+        "Photos": 
+        [
+          {
+            "name": "TestPourImageBis.jpg",
+            "ratio":"400x222",
+            "legends": [],
+            "detactive": "1",
+            "text": "",
+            "postext": "TL",
+            "rottext": "0",
+            "pref_yt": "I",
+            "btns" :[],
+			"num": "417"
+          },
+          {
+            "name": "CoupeFemme00Video.jpg",
+            "ratio":"1000x557",
+            "legends": [],
+            "detactive": "1",
+            "text": "",
+            "postext": "TL",
+            "rottext": "0",
+            "pref_yt": "P",
+            "btns" :
+             [
+               {
+                 "type": "img_Youtube_FR",
+                 "url": "https://youtu.be/paA_VFAqP6g"
+               },
+               {
+                 "type": "QrCode",
+                 "url": "https://youtu.be/paA_VFAqP6g"
+               }
+             ],
+			"num": "1"
+          },
+          {
+            "name": "iban_JLD_INFORMATIQUE_00020188201_photo.jpg",
+            "ratio":"350x350",
+            "legends": 
+              [
+                {
+                  "legend": "Ambre solaire"
+                },
+                {
+                  "legend": "BC"
+                },
+                {
+                  "legend": "24.50&euro"
+                }
+              ],
+            "detactive": "1",
+            "text": "",
+            "postext": "TL",
+            "rottext": "0",
+            "pref_yt": "I",
+            "btns" :
+             [
+               {
+                 "type": "PDF_TAB",
+                 "url": "www.mobislide.fr/data7/coiffeur/documentation/iban_JLD_INFORMATIQUE_00020188201.pdf"
+               },
+               {
+                 "type": "QrCode",
+                 "url": "www.mobislide.fr/data7/coiffeur/documentation/iban_JLD_INFORMATIQUE_00020188201.pdf"
+               }
+             ],
+			"num": "402"
+          }
+        ]
+      }		  
+    ]
+  }
+}
